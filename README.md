@@ -12,9 +12,8 @@ O **SoundWave** é uma plataforma focada em streaming, descoberta e curadoria de
 
 ## 📱 Capturas de Tela (Screenshots)
 
-| Ícone na Tela Inicial | Splash Screen Nativa | Interface Principal & Player |
-| :---: | :---: | :---: |
-| <img src="screenshots/Design sem nome.png" alt="Tela Principal SoundWave" width="240" /> |
+Ícone na Tela Inicial
+<img src="screenshots/Design sem nome.png" alt="Tela Principal SoundWave" width="240" />
 
 ---
 
